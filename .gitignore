@@ -4,3 +4,4 @@ qa_overflow.py
 process_assets.py
 .DS_Store
 .vercel/
+.vercel
